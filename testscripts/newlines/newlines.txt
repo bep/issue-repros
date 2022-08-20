@@ -1,0 +1,8 @@
+sha256 file1.txt
+
+stdout 676482795164fe835c46dbe3c0ea00f7362c37d65626eb433615fd780b61c083
+
+-- file1.txt --
+Hello 1.
+-- file2.txt --
+Hello 2.
